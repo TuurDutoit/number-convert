@@ -1,0 +1,24 @@
+{
+  "name": "number-convert",
+  "version": "1.0.0",
+  "description": "A function for converting numbers to and from different bases w/o loss of precision.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "binary",
+    "decimal",
+    "hexadecimal",
+    "bin",
+    "dec",
+    "hex",
+    "number",
+    "convert",
+    "conversion",
+    "base",
+    "transform"
+  ],
+  "author": "Tuur Dutoit <me@tuurdutoit.be>",
+  "license": "MIT"
+}
